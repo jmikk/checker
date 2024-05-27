@@ -1,0 +1,6 @@
+If you have never run this script open a terminal or cmd window and type in 
+
+pip install requests xmltodict Pillow tkinter
+
+
+than double click the file, its normal for it to hang after donwload xml: 200 it is still working!
